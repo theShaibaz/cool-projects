@@ -1,0 +1,39 @@
+E:\Projects\VB.NET\Final Project\Result Evaluation And Mailing\Result Evaluation And Mailing\bin\Debug\Result Evaluation And Mailing.exe.config
+E:\Projects\VB.NET\Final Project\Result Evaluation And Mailing\Result Evaluation And Mailing\bin\Debug\Result Evaluation And Mailing.exe
+E:\Projects\VB.NET\Final Project\Result Evaluation And Mailing\Result Evaluation And Mailing\bin\Debug\Result Evaluation And Mailing.pdb
+E:\Projects\VB.NET\Final Project\Result Evaluation And Mailing\Result Evaluation And Mailing\bin\Debug\Result Evaluation And Mailing.xml
+E:\Projects\VB.NET\Final Project\Result Evaluation And Mailing\Result Evaluation And Mailing\obj\Debug\ResolveAssemblyReference.cache
+E:\Projects\VB.NET\Final Project\Result Evaluation And Mailing\Result Evaluation And Mailing\obj\Debug\WindowsApplication1.Resources.resources
+E:\Projects\VB.NET\Final Project\Result Evaluation And Mailing\Result Evaluation And Mailing\obj\Debug\Result Evaluation And Mailing.vbproj.GenerateResource.Cache
+E:\Projects\VB.NET\Final Project\Result Evaluation And Mailing\Result Evaluation And Mailing\obj\Debug\Result Evaluation And Mailing.exe
+E:\Projects\VB.NET\Final Project\Result Evaluation And Mailing\Result Evaluation And Mailing\obj\Debug\Result Evaluation And Mailing.xml
+E:\Projects\VB.NET\Final Project\Result Evaluation And Mailing\Result Evaluation And Mailing\obj\Debug\Result Evaluation And Mailing.pdb
+E:\Projects\VB.NET\Final Project\Result Evaluation And Mailing\Result Evaluation And Mailing\obj\Debug\WindowsApplication1.frmLogin.resources
+E:\Projects\VB.NET\Final Project\Result Evaluation And Mailing\Result Evaluation And Mailing\obj\Debug\WindowsApplication1.frmHome.resources
+E:\Projects\VB.NET\Final Project\Result Evaluation And Mailing\Result Evaluation And Mailing\obj\Debug\WindowsApplication1.frmBranch.resources
+E:\Projects\VB.NET\Final Project\Result Evaluation And Mailing\Result Evaluation And Mailing\obj\Debug\WindowsApplication1.frmStudent.resources
+E:\Projects\VB.NET\Final Project\Result Evaluation And Mailing\Result Evaluation And Mailing\obj\Debug\WindowsApplication1.frmSubject.resources
+E:\Projects\VB.NET\Final Project\Result Evaluation And Mailing\Result Evaluation And Mailing\obj\Debug\WindowsApplication1.frmUser.resources
+E:\Projects\VB.NET\Final Project\Result Evaluation And Mailing\Result Evaluation And Mailing\obj\Debug\WindowsApplication1.frmResult.resources
+E:\Projects\VB.NET\Final Project\Result Evaluation And Mailing\Result Evaluation And Mailing\obj\Debug\WindowsApplication1.frmStud_Report.resources
+E:\Projects\VB.NET\Final Project\Result Evaluation And Mailing\Result Evaluation And Mailing\obj\Debug\WindowsApplication1.frmMarksheet.resources
+E:\Projects\VB.NET\Final Project\Result Evaluation And Mailing\Result Evaluation And Mailing\obj\Debug\WindowsApplication1.frmMarksheet_Pre.resources
+E:\Projects\VB.NET\Final Project\Result Evaluation And Mailing\Result Evaluation And Mailing\obj\Debug\WindowsApplication1.frmBackup.resources
+E:\Projects\VB.NET\Final Project\Result Evaluation And Mailing\Result Evaluation And Mailing\obj\Debug\WindowsApplication1.frmsend_email.resources
+E:\Projects\VB.NET\Final Project\Result Evaluation And Mailing\Result Evaluation And Mailing\obj\Debug\WindowsApplication1.frmDept.resources
+E:\Projects\VB.NET\Final Project\Result Evaluation And Mailing\Result Evaluation And Mailing\obj\Debug\WindowsApplication1.frmClass.resources
+E:\Projects\VB.NET\Final Project\Result Evaluation And Mailing\Result Evaluation And Mailing\obj\Debug\WindowsApplication1.frmMail_Login.resources
+E:\Projects\VB.NET\Final Project\Result Evaluation And Mailing\Result Evaluation And Mailing\bin\Debug\Interop.MSExchangeLib.dll
+E:\Projects\VB.NET\Final Project\Result Evaluation And Mailing\Result Evaluation And Mailing\bin\Debug\AxInterop.MSExchangeLib.dll
+E:\Projects\VB.NET\Final Project\Result Evaluation And Mailing\Result Evaluation And Mailing\obj\Debug\Interop.MSExchangeLib.dll
+E:\Projects\VB.NET\Final Project\Result Evaluation And Mailing\Result Evaluation And Mailing\obj\Debug\AxInterop.MSExchangeLib.dll
+E:\Projects\VB.NET\Final Project\Result Evaluation And Mailing\Result Evaluation And Mailing\obj\Debug\Result Evaluation And Mailing.vbproj.ResolveComReference.cache
+E:\Projects\VB.NET\Final Project\Result Evaluation And Mailing\Result Evaluation And Mailing\obj\Debug\WindowsApplication1.frmAtkt.resources
+E:\Projects\VB.NET\Final Project\Result Evaluation And Mailing\Result Evaluation And Mailing\obj\Debug\WindowsApplication1.frmMail_Login_Atkt.resources
+E:\Projects\VB.NET\Final Project\Result Evaluation And Mailing\Result Evaluation And Mailing\obj\Debug\WindowsApplication1.frmSend_Email_Atkt.resources
+E:\Projects\VB.NET\Final Project\Result Evaluation And Mailing\Result Evaluation And Mailing\bin\Debug\Result Evaluation And Mailing.exe.manifest
+E:\Projects\VB.NET\Final Project\Result Evaluation And Mailing\Result Evaluation And Mailing\bin\Debug\Result Evaluation And Mailing.application
+E:\Projects\VB.NET\Final Project\Result Evaluation And Mailing\Result Evaluation And Mailing\obj\Debug\Result Evaluation And Mailing.exe.manifest
+E:\Projects\VB.NET\Final Project\Result Evaluation And Mailing\Result Evaluation And Mailing\obj\Debug\Result Evaluation And Mailing.application
+E:\Projects\VB.NET\Final Project\Result Evaluation And Mailing\Result Evaluation And Mailing\bin\Debug\Resources\REM_DB.accdb
+E:\Projects\VB.NET\Final Project\Result Evaluation And Mailing\Result Evaluation And Mailing\obj\Debug\WindowsApplication1.SplashScreen.resources
