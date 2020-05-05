@@ -1,0 +1,106 @@
+-- MySQL dump 10.16  Distrib 10.1.32-MariaDB, for Win32 (AMD64)
+--
+-- Host: localhost    Database: db_iqra
+-- ------------------------------------------------------
+-- Server version	10.1.32-MariaDB
+
+/*!40101 SET @OLD_CHARACTER_SET_CLIENT=@@CHARACTER_SET_CLIENT */;
+/*!40101 SET @OLD_CHARACTER_SET_RESULTS=@@CHARACTER_SET_RESULTS */;
+/*!40101 SET @OLD_COLLATION_CONNECTION=@@COLLATION_CONNECTION */;
+/*!40101 SET NAMES utf8 */;
+/*!40103 SET @OLD_TIME_ZONE=@@TIME_ZONE */;
+/*!40103 SET TIME_ZONE='+00:00' */;
+/*!40014 SET @OLD_FOREIGN_KEY_CHECKS=@@FOREIGN_KEY_CHECKS, FOREIGN_KEY_CHECKS=0 */;
+/*!40101 SET @OLD_SQL_MODE=@@SQL_MODE, SQL_MODE='NO_AUTO_VALUE_ON_ZERO' */;
+/*!40111 SET @OLD_SQL_NOTES=@@SQL_NOTES, SQL_NOTES=0 */;
+
+--
+-- Dumping data for table `tbl_fees_term_one`
+--
+
+LOCK TABLES `tbl_fees_term_one` WRITE;
+/*!40000 ALTER TABLE `tbl_fees_term_one` DISABLE KEYS */;
+INSERT INTO `tbl_fees_term_one` VALUES (38,'GR123','First','A',0,0,0,0,0,0,0,0,0,0,0,0,'1'),(39,'GR124','First','A',0,0,0,0,0,0,0,0,0,0,0,0,'0'),(40,'GR125','First','A',0,0,0,0,0,0,0,0,0,0,0,0,'0'),(41,'GR126','First','A',0,0,0,0,0,0,0,0,0,0,0,0,'0'),(42,'GR127','First','A',0,0,0,0,0,0,0,0,0,0,0,0,'0'),(43,'GR128','First','A',0,0,0,0,0,0,0,0,0,0,0,0,'0'),(44,'GR129','First','A',0,0,0,0,0,0,0,0,0,0,0,0,'0'),(45,'GR123','First','B',100,100,100,0,0,0,250,0,250,0,250,1050,'0'),(46,'GR130','First','B',0,0,0,0,0,0,0,0,0,0,0,0,'0'),(47,'GR131','First','B',0,0,0,0,0,0,0,0,0,0,0,0,'0'),(49,'GR132','First','B',0,0,0,0,0,0,0,0,0,0,0,0,'0');
+/*!40000 ALTER TABLE `tbl_fees_term_one` ENABLE KEYS */;
+UNLOCK TABLES;
+
+--
+-- Dumping data for table `tbl_fees_term_two`
+--
+
+LOCK TABLES `tbl_fees_term_two` WRITE;
+/*!40000 ALTER TABLE `tbl_fees_term_two` DISABLE KEYS */;
+INSERT INTO `tbl_fees_term_two` VALUES (11,'GR123','First','A',0,0,0,0,0,0,0,0,0,0,0,0,'1'),(12,'GR124','First','A',0,0,0,0,0,0,0,0,0,0,0,0,'0'),(13,'GR125','First','A',0,0,0,0,0,0,0,0,0,0,0,0,'0'),(14,'GR126','First','A',0,0,0,0,0,0,0,0,0,0,0,0,'0'),(15,'GR127','First','A',0,0,0,0,0,0,0,0,0,0,0,0,'0'),(16,'GR128','First','A',0,0,0,0,0,0,0,0,0,0,0,0,'0'),(17,'GR129','First','A',0,0,0,0,0,0,0,0,0,0,0,0,'0'),(18,'GR123','First','B',0,0,0,0,0,0,0,0,0,0,0,0,'0'),(19,'GR130','First','B',0,0,0,0,0,0,0,0,0,0,0,0,'0'),(20,'GR131','First','B',0,0,0,0,0,0,0,0,0,0,0,0,'0'),(22,'GR132','First','B',0,0,0,0,0,0,0,0,0,0,0,0,'0');
+/*!40000 ALTER TABLE `tbl_fees_term_two` ENABLE KEYS */;
+UNLOCK TABLES;
+
+--
+-- Dumping data for table `tbl_invoices`
+--
+
+LOCK TABLES `tbl_invoices` WRITE;
+/*!40000 ALTER TABLE `tbl_invoices` DISABLE KEYS */;
+INSERT INTO `tbl_invoices` VALUES (21,'GR123','First','B','2018-08-26','june july august term_one computer_one sport_one','100 100 100 250 250 250',1050,'','');
+/*!40000 ALTER TABLE `tbl_invoices` ENABLE KEYS */;
+UNLOCK TABLES;
+
+--
+-- Dumping data for table `tbl_login`
+--
+
+LOCK TABLES `tbl_login` WRITE;
+/*!40000 ALTER TABLE `tbl_login` DISABLE KEYS */;
+INSERT INTO `tbl_login` VALUES (1,'shaibaz','$2y$10$4WsCu5.13Ch/ZU0J6rycoOy9K2frfke7NSxEqvlM4wchDTuvKu8Ce');
+/*!40000 ALTER TABLE `tbl_login` ENABLE KEYS */;
+UNLOCK TABLES;
+
+--
+-- Dumping data for table `tbl_students`
+--
+
+LOCK TABLES `tbl_students` WRITE;
+/*!40000 ALTER TABLE `tbl_students` DISABLE KEYS */;
+INSERT INTO `tbl_students` VALUES ('GR123','Shaibaz Mahamad Mulla','First','B','','7588130054','','','Ratnagiri','Airport',''),('GR124','Shoheb Mahamad Mulla','First','A','','8793264668','','','Ratnagiri','Airport',''),('GR125','Rida Shoheb Mulla','First','A','','7758856536','','','Ratnagiri','Airport',''),('GR126','Raziya Mahamad Mulla','First','A','','9145916719','','','Ratnagiri','Airport',''),('GR127','Mahamad Ibrahim Mulla','First','A','','8668501810','','','Ratnagiri','Airport',''),('GR128','Zehra Shoheb Mulla','First','A','','8793264668','','','Ratnagiri','Airport',''),('GR129','Nisar Husain Wagle','First','A','','7588160054','','','Ratnagiri','Airport',''),('GR130','Shadab Shaukat Wasta','First','B','','8899654111','','','Ratnagiri','Kokan Nagar',''),('GR131','Zoheb Javed Fondu','First','B','','8087682879','','','Pawas','Bazaarpeth',''),('GR132','Shahid Siraj Mukadam','First','B','','9966332211','','','Karla','Near Jaama Masjid','');
+/*!40000 ALTER TABLE `tbl_students` ENABLE KEYS */;
+UNLOCK TABLES;
+/*!50003 SET @saved_cs_client      = @@character_set_client */ ;
+/*!50003 SET @saved_cs_results     = @@character_set_results */ ;
+/*!50003 SET @saved_col_connection = @@collation_connection */ ;
+/*!50003 SET character_set_client  = utf8mb4 */ ;
+/*!50003 SET character_set_results = utf8mb4 */ ;
+/*!50003 SET collation_connection  = utf8mb4_unicode_ci */ ;
+/*!50003 SET @saved_sql_mode       = @@sql_mode */ ;
+/*!50003 SET sql_mode              = 'NO_AUTO_CREATE_USER,NO_ENGINE_SUBSTITUTION' */ ;
+DELIMITER ;;
+/*!50003 CREATE*/ /*!50017 DEFINER=`root`@`localhost`*/ /*!50003 TRIGGER `import_students` AFTER INSERT ON `tbl_students` FOR EACH ROW BEGIN
+    INSERT INTO tbl_fees_term_one(gr_number,class,division)
+	VALUES(NEW.gr_number,NEW.class,NEW.division);
+    
+    INSERT INTO tbl_fees_term_two(gr_number,class,division)
+	VALUES(NEW.gr_number,NEW.class,NEW.division);
+END */;;
+DELIMITER ;
+/*!50003 SET sql_mode              = @saved_sql_mode */ ;
+/*!50003 SET character_set_client  = @saved_cs_client */ ;
+/*!50003 SET character_set_results = @saved_cs_results */ ;
+/*!50003 SET collation_connection  = @saved_col_connection */ ;
+
+--
+-- Dumping data for table `tbl_transactions`
+--
+
+LOCK TABLES `tbl_transactions` WRITE;
+/*!40000 ALTER TABLE `tbl_transactions` DISABLE KEYS */;
+INSERT INTO `tbl_transactions` VALUES (1,'Income','Fees Payment','2018-08-16',3100,'Cash','','',''),(2,'Income','Fees Payment','2018-08-16',700,'Cash','','',''),(3,'Income','Miscellaneous','2018-08-16',10000,'Cash','','',''),(5,'Income','Miscellaneous','2018-08-17',11500,'Cash','789','555','hi'),(8,'Expense','Miscellaneous','2018-08-17',500,'Cash','789','555','hi'),(9,'Income','Miscellaneous','2018-08-16',10000,'Cash','','',''),(11,'Income','Miscellaneous','2018-08-16',5000,'Cheque','','',''),(21,'Expense','Miscellaneous','2018-08-16',5511,'Cash','','',''),(25,'Income','Fees Payment','2018-07-25',1500,'Cash','','',''),(28,'Income','Fees Payment','2018-07-25',1500,'Cash','','',''),(29,'Income','Fees Payment','2018-07-25',1500,'Cash','','',''),(30,'Income','Fees Payment','2018-07-25',1500,'Cash','','',''),(31,'Income','Fees Payment','2018-07-25',1500,'Cash','','',''),(32,'Income','Fees Payment','2018-07-25',1500,'Cash','','',''),(33,'Income','Fees Payment','2018-07-25',1500,'Cash','','',''),(34,'Income','Fees Payment','2018-07-25',1500,'Cash','','',''),(35,'Income','Fees Payment','2018-07-25',1500,'Cash','','',''),(36,'Income','Fees Payment','2018-07-25',1500,'Cash','','',''),(37,'Income','Fees Payment','2018-07-25',1500,'Cash','','',''),(38,'Income','Fees Payment','2018-07-25',1500,'Cash','','','');
+/*!40000 ALTER TABLE `tbl_transactions` ENABLE KEYS */;
+UNLOCK TABLES;
+/*!40103 SET TIME_ZONE=@OLD_TIME_ZONE */;
+
+/*!40101 SET SQL_MODE=@OLD_SQL_MODE */;
+/*!40014 SET FOREIGN_KEY_CHECKS=@OLD_FOREIGN_KEY_CHECKS */;
+/*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
+/*!40101 SET CHARACTER_SET_RESULTS=@OLD_CHARACTER_SET_RESULTS */;
+/*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
+/*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */;
+
+-- Dump completed on 2018-08-28 16:57:20
