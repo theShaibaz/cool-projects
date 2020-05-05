@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://xmlns.jcp.org/xml/ns/javaee" xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee http://xmlns.jcp.org/xml/ns/javaee/web-app_3_1.xsd" id="WebApp_ID" version="3.1">
+  <display-name>Online-Library</display-name>
+  <welcome-file-list>
+    <welcome-file>index.html</welcome-file>
+  </welcome-file-list>
+  
+  <servlet>
+  	<servlet-name>authenticate</servlet-name>
+  	<servlet-class>com.library.servlets.AuthenticateServlet</servlet-class>
+  </servlet>
+  <servlet-mapping>
+  	<servlet-name>authenticate</servlet-name>
+  	<url-pattern>/doAuthenticate</url-pattern>
+  </servlet-mapping>
+  
+  <servlet>
+  	<servlet-name>admin</servlet-name>
+  	<servlet-class>com.library.servlets.AdminServlet</servlet-class>
+  </servlet>
+  <servlet-mapping>
+  	<servlet-name>admin</servlet-name>
+  	<url-pattern>/doAdmin</url-pattern>
+  </servlet-mapping>
+  
+  <servlet>
+  	<servlet-name>addBookUI</servlet-name>
+  	<servlet-class>com.library.servlets.AddBookUIServlet</servlet-class>
+  </servlet>
+  <servlet-mapping>
+  	<servlet-name>addBookUI</servlet-name>
+  	<url-pattern>/doAddBookUI</url-pattern>
+  </servlet-mapping>
+  
+  <servlet>
+  	<servlet-name>addBook</servlet-name>
+  	<servlet-class>com.library.servlets.AddBookServlet</servlet-class>
+  </servlet>
+  <servlet-mapping>
+  	<servlet-name>addBook</servlet-name>
+  	<url-pattern>/doAddBook</url-pattern>
+  </servlet-mapping>
+  
+  <servlet>
+  	<servlet-name>updateBookUI</servlet-name>
+  	<servlet-class>com.library.servlets.UpdateBookUIServlet</servlet-class>
+  </servlet>
+  <servlet-mapping>
+  	<servlet-name>updateBookUI</servlet-name>
+  	<url-pattern>/doUpdateBookUI</url-pattern>
+  </servlet-mapping>
+  
+  <servlet>
+  	<servlet-name>updateBook</servlet-name>
+  	<servlet-class>com.library.servlets.UpdateBookServlet</servlet-class>
+  </servlet>
+  <servlet-mapping>
+  	<servlet-name>updateBook</servlet-name>
+  	<url-pattern>/doUpdateBook</url-pattern>
+  </servlet-mapping>
+  
+  <servlet>
+  	<servlet-name>deleteBook</servlet-name>
+  	<servlet-class>com.library.servlets.DeleteBookServlet</servlet-class>
+  </servlet>
+  <servlet-mapping>
+  	<servlet-name>deleteBook</servlet-name>
+  	<url-pattern>/doDeleteBook</url-pattern>
+  </servlet-mapping>
+  
+  <servlet>
+  	<servlet-name>addGenreUI</servlet-name>
+  	<servlet-class>com.library.servlets.AddGenreUIServlet</servlet-class>
+  </servlet>
+  <servlet-mapping>
+  	<servlet-name>addGenreUI</servlet-name>
+  	<url-pattern>/doAddGenreUI</url-pattern>
+  </servlet-mapping>
+  
+  <servlet>
+  	<servlet-name>addGenre</servlet-name>
+  	<servlet-class>com.library.servlets.AddGenreServlet</servlet-class>
+  </servlet>
+  <servlet-mapping>
+  	<servlet-name>addGenre</servlet-name>
+  	<url-pattern>/doAddGenre</url-pattern>
+  </servlet-mapping>
+  
+  <servlet>
+  	<servlet-name>user</servlet-name>
+  	<servlet-class>com.library.servlets.UserServlet</servlet-class>
+  </servlet>
+  <servlet-mapping>
+  	<servlet-name>user</servlet-name>
+  	<url-pattern>/doUser</url-pattern>
+  </servlet-mapping>
+  
+  <servlet>
+  	<servlet-name>displayBooks</servlet-name>
+  	<servlet-class>com.library.servlets.DisplayBooksServlet</servlet-class>
+  </servlet>
+  <servlet-mapping>
+  	<servlet-name>displayBooks</servlet-name>
+  	<url-pattern>/doDisplayBooks</url-pattern>
+  </servlet-mapping>
+  
+</web-app>
