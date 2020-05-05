@@ -1,0 +1,13 @@
+[ Sat Feb 01 21:23:13 IST 2020 ] : MySQL Server Started
+[ Sat Feb 01 21:23:28 IST 2020 ] : MySQL Server Started
+[ Sat Feb 01 21:23:46 IST 2020 ] : User Fetched All Books
+[ Sat Feb 01 21:23:53 IST 2020 ] : User Deleted Repeated Books
+[ Sat Feb 01 21:23:55 IST 2020 ] : User Fetched All Books
+[ Sat Feb 01 21:24:34 IST 2020 ] : User Added 1 Books
+[ Sat Feb 01 21:24:37 IST 2020 ] : User Fetched All Books
+[ Sat Feb 01 21:24:49 IST 2020 ] : User Updated 2 Books
+[ Sat Feb 01 21:24:57 IST 2020 ] : User Fetched All Books
+[ Sat Feb 01 21:25:23 IST 2020 ] : User Deleted 2 Books
+[ Sat Feb 01 21:25:25 IST 2020 ] : User Fetched All Books
+[ Sat Feb 01 21:25:31 IST 2020 ] : MySQL Server Stopped
+[ Fri Feb 14 19:10:42 IST 2020 ] : MySQL Server Started
