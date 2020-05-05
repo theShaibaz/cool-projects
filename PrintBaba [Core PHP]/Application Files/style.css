@@ -1,0 +1,132 @@
+body
+{
+    background-color: #026873;
+    background-image: linear-gradient(90deg, rgba(255,255,255,.07) 50%, transparent 50%),
+    linear-gradient(90deg, rgba(255,255,255,.13) 50%, transparent 50%),
+    linear-gradient(90deg, transparent 50%, rgba(255,255,255,.17) 50%),
+    linear-gradient(90deg, transparent 50%, rgba(255,255,255,.19) 50%);
+    background-size: 13px, 29px, 37px, 53px;
+}
+
+div#main
+{
+    background: hsla(233, 45%, 69%, 1);
+    max-width: 2400px;
+    min-width: 2400px;
+    max-height:auto;
+    min-height:1200px;
+    margin-left: 6%;
+    margin-top: 2%;
+    border-radius: 50px;
+}
+
+img
+{
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+    margin-top: 60px;
+    margin-left: 80px;
+}
+
+h1
+{
+    margin-left: 700px;
+    margin-top: -250px;
+    font-family: Jokerman;
+    font-size: 786%;
+}
+
+h2
+{
+    margin-left: 25%;
+    margin-top: 9%;
+    font-family: "Lucida Console", Monaco, monospace;
+    font-size: 35px;
+}
+
+div#navigation
+{
+    margin-top: -150px;
+}
+
+span#nav
+{
+    background: hsla(0, 0%, 41%, 1);
+    font-size: 60px;
+    text-align: center;
+    padding-left: 170px;
+    padding-right: 170px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    font-family:"Space Bd BT";
+}
+
+input
+{
+    width: 500px;
+    height: 55px;
+    font-family: "Courier New", Courier, monospace;
+    font-size: 25px;
+}
+
+select,option
+{
+    width: 200px;
+    height: 55px;
+    font-family: "Courier New", Courier, monospace;
+    font-size: 25px;
+}
+
+.qty
+{
+    width: 190px;
+    height: 45px;
+    font-family: "Courier New", Courier, monospace;
+    font-size: 35px;
+    margin-left: 18%;
+}
+
+.content
+{
+    margin-top: 7%;
+}
+
+table
+{
+    margin-left: -5%;
+    font-family: "Courier New", Courier, monospace;
+    font-size: 25px;
+    background: hsla(0, 0%, 90%, 0.7);
+    padding: 15px;
+    border-style: solid;
+}
+
+td
+{
+    text-align: center;
+}
+
+.green
+{
+    background-color: Green;
+    color : White;
+    border-radius: 25px;
+    box-shadow: 0 .05em .25em rgba(0,0,0,.5);
+    text-shadow: 0 -.05em .05em rgba(0,0,0,.5);
+    padding : 1px;
+    font-family: "Courier New", Courier, monospace;
+    font-size: 40px;
+}
+
+.red
+{
+    background-color: Red;
+    color : White;
+    border-radius: 25px;
+    box-shadow: 0 .05em .25em rgba(0,0,0,.5);
+    text-shadow: 0 -.05em .05em rgba(0,0,0,.5);
+    padding : 1px;
+    font-family: "Courier New", Courier, monospace;
+    font-size: 40px;
+}
